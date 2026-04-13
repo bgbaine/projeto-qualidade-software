@@ -4,7 +4,7 @@
 - Bernardo Ginar de Carvalho — 782410122
 - Bryan  — Matrícula
 - Filipe — Matrícula
-- Pedro — Matrícula
+- Pedro Hasse Niemczewski — 781310203
 
 ## 🎯 Objetivo do Repositório
 Este repositório reúne as atividades desenvolvidas na disciplina de Qualidade de Software, realizadas por meio da metodologia PBL.
