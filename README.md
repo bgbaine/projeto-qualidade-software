@@ -2,7 +2,7 @@
 
 ## 👥 Integrantes
 - Bernardo Ginar de Carvalho — 782410122
-- Bryan  — Matrícula
+- Bryan  — 782410011
 - Filipe — Matrícula
 - Pedro Hasse Niemczewski — 781310203
 
