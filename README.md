@@ -3,7 +3,7 @@
 ## 👥 Integrantes
 - Bernardo Ginar de Carvalho — 782410122
 - Bryan Laquimam Lübke Gonçalves — 782410011
-- Filipe — Matrícula
+- Filipe Silveira Maciel, — 71901368
 - Pedro Hasse Niemczewski — 781310203
 
 ## 🎯 Objetivo do Repositório
