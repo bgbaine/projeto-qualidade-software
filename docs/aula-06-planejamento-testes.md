@@ -1,16 +1,3 @@
-# Aula 6 – Planejamento e Execução de Testes
-
-> Disciplina: Qualidade de Software
-> Projeto: LocalEats
-> Integrantes do grupo:
->
-> * Nome 1
-> * Nome 2
-> * Nome 3
-> * Nome 4
-
----
-
 ## 1. Plano de Testes
 
 ### 1.1 Objetivo
