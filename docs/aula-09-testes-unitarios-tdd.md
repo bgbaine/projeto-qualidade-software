@@ -58,6 +58,25 @@ Cada integrante implementou seus testes unitários no respectivo arquivo dentro 
 
 * **Resultado:** Passou
 
+**Teste 3 – Distância acima de 3km**
+
+* **Cenário:** Taxa fixa + valor adicional por quilômetro extra
+* **Resultado esperado:** Retorno de R$ 5,00 somado a R$ 2,00 por km excedente
+
+**TDD**
+
+* **Red:** falha por retornar apenas o valor fixo de `5.0` (`AssertionError`), já que a função ainda não calculava o excedente
+* **Green:** implementação da lógica matemática com `quilometros_extras = distancia - 3` multiplicados pela taxa extra
+* **Refactor:** limpeza da estrutura condicional usando retornos limpos para cada cenário de distância
+
+**Refatoração**
+
+* Separação explícita entre o fluxo de taxa fixa (até 3km) e o cálculo dinâmico de quilometragem excedente
+
+**Execução**
+
+* **Resultado:** Passou
+
 #### 2.2 Reflexão
 
 * **Foi difícil escrever testes antes do código?**
